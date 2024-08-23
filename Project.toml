@@ -3,6 +3,10 @@ uuid = "563ea7ce-49b9-4182-b5ce-74f9cf17e2f8"
 authors = ["lgflorentino <lgflorentino@lgflorentino.engineer>"]
 version = "0.0.1"
 
+[deps]
+Lindenmayer = "d9db2020-d13e-4bf8-b13e-b12a3214b5ef"
+Mellan = "9395f11c-09ed-45be-886c-23f223b99ebb"
+
 [compat]
 julia = "1.6.7"
 
