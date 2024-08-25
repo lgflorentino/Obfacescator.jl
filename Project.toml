@@ -4,6 +4,7 @@ authors = ["lgflorentino <lgflorentino@lgflorentino.engineer>"]
 version = "0.0.1"
 
 [deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
 Lindenmayer = "d9db2020-d13e-4bf8-b13e-b12a3214b5ef"
 Mellan = "9395f11c-09ed-45be-886c-23f223b99ebb"
 
